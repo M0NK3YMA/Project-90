@@ -1,0 +1,91 @@
+**Quiz Buzzer App**
+
+TouchableOpacity, 
+Button,
+ TextInput, 
+Database Connectivity,
+ Text,
+ onPress(),
+ We used time functions like DATE.time.seconds,
+ Styling, and stylesheet,
+ components,
+ we check how many people on one team
+Check who clicked the button first
+Sounds for button clicking
+SwitchNavigation
+
+**Monkey Chunky**
+
+text to speech
+using database to find common words and make them smaller.
+TouchableOpacity so you can click on the buttons to make the noise.
+Images, 
+ternary operater ? :
+trim()removes additional spaces
+lowercase() makes all text in lowercase
+
+**E-Library **
+
+scanner for QR codes
+checking if you have returned your book
+searching for books
+asking for camera permissions
+bottomTabNavigation
+<ScrollView> allows you to scroll
+flatList
+constructor properties
+
+**Iss Tracker**
+
+StackNavigation
+How to use API
+database
+calculating math using .Math()
+SafeAreaView for android
+componentDidMount() everything in it automatically opens up first
+what is a API
+what is a JSON
+<Marker> and <MapView> allows you to place a marker on a map that MapView makes
+<ImageBackground> sets a image as the background
+
+**Story Telling App**
+
+DrawerNavigation
+DropDownPicker creates a dropdown to select
+fireBase authentication
+SignInwithEmailandPassword, RegisterUser, and SignOut
+RFValue is responsive fontSizes depending on screen size.
+CustomFonts 
+AutoFocus to automatic go on to a textInput
+how to make a lightMode and a darkMode
+CustomBottonTabNavigation
+Custom Drawer Tab Navigation
+.ref references the database to use the data it has
+activeTint and InactiveTint for custom drawer and bottom tab Navigations.
+how to add on Icons
+<View> to add more than 1 thing in a section
+
+**10 real world problems and apps**
+
+A schedule app to remember my homework and assignments due
+A graph calculator app to use graphing easier and better because writing it down is hard
+a timer app so I can remember to check my game every 1 hour
+A trail map app so I can see the trails near me for mountain biking
+A health app so people who are sick can see how to cure it
+A plant health checker app because all my plants die even when i water and take care of them
+A education app for teachers so they can teach kids who are sick or can't come to school
+A climate change app so people can see the trend of the earth heating up and try and fix it
+A alarm app so people can wake up and get out of bed
+A habit checker app so people can check what they need to do
+
+
+
+
+
+
+
+
+
+
+
+
